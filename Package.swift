@@ -12,6 +12,6 @@ let package = Package(
             targets: ["ObjectiveDropboxOfficial"]),
     ],
     targets: [
-        .binaryTarget(name: "ObjectiveDropboxOfficial", url: "https://github.com/phil1995/dropbox-sdk-obj-c/releases/download/6.3.2-spm/ObjectiveDropboxOfficial.xcframework.zip", checksum: "75de4d3670ef7824cebfcfc2aabf84ed7d576e66439d3a170f0801006bb9cc94") 
+        .binaryTarget(name: "ObjectiveDropboxOfficial", url: "https://github.com/phil1995/dropbox-sdk-obj-c/releases/download/7.0.0-spm/ObjectiveDropboxOfficial.xcframework.zip", checksum: "edaaf9621390224e326b68b87f6f78a31bc3418ca816a778d765f7f4012a5b11") 
     ]
 )
